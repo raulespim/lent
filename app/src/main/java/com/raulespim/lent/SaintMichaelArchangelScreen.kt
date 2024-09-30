@@ -1,5 +1,8 @@
 package com.raulespim.lent
 
+import androidx.compose.animation.animateContentSize
+import androidx.compose.animation.core.Spring
+import androidx.compose.animation.core.spring
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -63,6 +66,12 @@ fun LentDayCard(lentDay: LentDay, modifier: Modifier = Modifier) {
     Card(modifier = modifier, elevation = CardDefaults.cardElevation(defaultElevation = 2.dp)) {
         Column(
             modifier = Modifier
+                .animateContentSize(
+                    animationSpec = spring(
+                        dampingRatio = Spring.DampingRatioNoBouncy,
+                        stiffness = Spring.StiffnessMedium
+                    )
+                )
                 .fillMaxWidth()
                 .padding(8.dp),
             verticalArrangement = Arrangement.Center,

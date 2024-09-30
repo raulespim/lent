@@ -12,6 +12,7 @@ object LentRepository {
             image = when (day) {
                 1 -> R.drawable.saint_michael_archangel_day1
                 2 -> R.drawable.saint_michael_archangel_day2
+                3 -> R.drawable.saint_michael_archangel_day3
                 else -> R.drawable.saint_michael_archangel_day2
             },
             description = when (day) {
