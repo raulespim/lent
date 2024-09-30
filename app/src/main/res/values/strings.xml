@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Lent</string>
+
+    <string name="lent_day_title">Day %d of Lent</string>
+
+    <!-- Saint Michael the Archangel -->
+    <string name="lent_name_saint_michael_archangel">40 Days with Saint Michael the Archangel</string>
+    
+    <string name="description_day1_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Assumption of Our Lady</string>
+    <string name="description_day2_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases from the book Imitation of Christ</string>
+    <string name="description_day3_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Our Lady</string>
+    <string name="description_day4_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Pride</string>
+    <string name="description_day5_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Humility</string>
+    <string name="description_day6_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Greed</string>
+    <string name="description_day7_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Generosity</string>
+    <string name="description_day8_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Envy</string>
+    <string name="description_day9_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Charity</string>
+    <string name="description_day10_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Wrath</string>
+    <string name="description_day11_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Meekness</string>
+    <string name="description_day12_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Lust</string>
+    <string name="description_day13_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Chastity</string>
+    <string name="description_day14_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Gluttony</string>
+    <string name="description_day15_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Temperance</string>
+    <string name="description_day16_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Capital Sin of Sloth</string>
+    <string name="description_day17_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virtue of Diligence</string>
+    <string name="description_day18_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Confession</string>
+    <string name="description_day19_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Holy Mass</string>
+    <string name="description_day20_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases from Saint Francis of Assisi</string>
+    <string name="description_day21_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Saint Michael the Archangel</string>
+    <string name="description_day22_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with passages from Sacred Scripture in the First Letter to the Thessalonians</string>
+    <string name="description_day23_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with passages from Sacred Scripture in the Second Letter to the Thessalonians</string>
+    <string name="description_day24_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with passages from Sacred Scripture in the Letter to the Colossians</string>
+    <string name="description_day25_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with passages from Sacred Scripture in the First Letter of Saint John, Chapters 1\-2\-3</string>
+    <string name="description_day26_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with passages from Sacred Scripture in the First Letter of Saint John, Chapters 4\-5</string>
+    <string name="description_day27_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Exaltation of the Holy Cross</string>
+    <string name="description_day28_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Family and Marriage</string>
+    <string name="description_day29_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Family, Forgiveness, Division, and Quarrels</string>
+    <string name="description_day30_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Family and the Education of Children</string>
+    <string name="description_day31_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Family for Singles, Widows, Engaged Couples, and Lovers</string>
+    <string name="description_day32_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Prayer in the Family</string>
+    <string name="description_day33_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about the Virgin Mary in the Family</string>
+    <string name="description_day34_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases from Saint Padre Pio of Pietrelcina</string>
+    <string name="description_day35_saint_michael_archangel">On this day, spontaneous prayers and meditations will be carried out as the Holy Spirit leads</string>
+    <string name="description_day36_saint_michael_archangel">On this day, spontaneous prayers and meditations will be carried out as the Holy Spirit leads</string>
+    <string name="description_day37_saint_michael_archangel">On this day, spontaneous prayers and meditations will be carried out as the Holy Spirit leads</string>
+    <string name="description_day38_saint_michael_archangel">On this day, spontaneous prayers and meditations will be carried out as the Holy Spirit leads</string>
+    <string name="description_day39_saint_michael_archangel">On this day, spontaneous prayers and meditations will be carried out as the Holy Spirit leads</string>
+    <string name="description_day40_saint_michael_archangel">Today we will contemplate the Mysteries of the Holy Rosary with phrases about Saint Michael, Saint Gabriel, and Saint Raphael</string>
+</resources>

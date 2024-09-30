@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quaresma</string>
+
+    <string name="lent_day_title">Dia %d da Quaresma</string>
+
+    <!-- Saint Michael the Archangel -->
+    <string name="lent_name_saint_michael_archangel">40 dias com São Miguel Arcanjo</string>
+
+    <string name="description_day1_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Assunção de Nossa Senhora</string>
+    <string name="description_day2_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases do livro Imitação de Cristo</string>
+    <string name="description_day3_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Nossa Senhora</string>
+    <string name="description_day4_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital do Orgulho</string>
+    <string name="description_day5_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Humildade</string>
+    <string name="description_day6_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Avareza</string>
+    <string name="description_day7_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Generosidade</string>
+    <string name="description_day8_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Inveja</string>
+    <string name="description_day9_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Caridade</string>
+    <string name="description_day10_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Ira</string>
+    <string name="description_day11_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Mansidão</string>
+    <string name="description_day12_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Luxúria</string>
+    <string name="description_day13_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Castidade</string>
+    <string name="description_day14_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Gula</string>
+    <string name="description_day15_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Temperança</string>
+    <string name="description_day16_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre o Pecado Capital da Preguiça</string>
+    <string name="description_day17_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Virtude da Diligência</string>
+    <string name="description_day18_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Confissão</string>
+    <string name="description_day19_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Santa Missa</string>
+    <string name="description_day20_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases de São Francisco de Assis</string>
+    <string name="description_day21_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre São Miguel Arcanjo</string>
+    <string name="description_day22_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com trechos da Sagrada Escritura na Primeira Carta aos Tessalonicenses</string>
+    <string name="description_day23_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com trechos da Sagrada Escritura na Segunda Carta aos Tessalonicenses</string>
+    <string name="description_day24_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com trechos da Sagrada Escritura na Carta aos Colossenses</string>
+    <string name="description_day25_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com trechos da Sagrada Escritura na Primeira Carta de São João, Capítulos 1\-2\-3</string>
+    <string name="description_day26_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com trechos da Sagrada Escritura na Primeira Carta de São João, Capítulos 4\-5</string>
+    <string name="description_day27_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre a Exaltação da Santa Cruz</string>
+    <string name="description_day28_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Família e Casamento</string>
+    <string name="description_day29_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Família, Perdão, Divisão e Brigas</string>
+    <string name="description_day30_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Família e Educação dos Filhos</string>
+    <string name="description_day31_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Família para Solteiros, Viúvas, Noivos e Namorados</string>
+    <string name="description_day32_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre Oração em Família</string>
+    <string name="description_day33_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre A Virgem Maria na Família</string>
+    <string name="description_day34_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases de São Pe. Pio de Pietrelcina</string>
+    <string name="description_day35_saint_michael_archangel">Neste dia serão realizadas orações e meditações espontâneas, conforme o Espírito Santo conduzir</string>
+    <string name="description_day36_saint_michael_archangel">Neste dia serão realizadas orações e meditações espontâneas, conforme o Espírito Santo conduzir</string>
+    <string name="description_day37_saint_michael_archangel">Neste dia serão realizadas orações e meditações espontâneas, conforme o Espírito Santo conduzir</string>
+    <string name="description_day38_saint_michael_archangel">Neste dia serão realizadas orações e meditações espontâneas, conforme o Espírito Santo conduzir</string>
+    <string name="description_day39_saint_michael_archangel">Neste dia serão realizadas orações e meditações espontâneas, conforme o Espírito Santo conduzir</string>
+    <string name="description_day40_saint_michael_archangel">Hoje iremos contemplar os Mistérios do Santo Rosário com frases sobre São Miguel, São Gabriel e São Rafael</string>
+
+</resources>
