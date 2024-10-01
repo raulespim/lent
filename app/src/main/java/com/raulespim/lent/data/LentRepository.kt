@@ -13,6 +13,10 @@ object LentRepository {
                 1 -> R.drawable.saint_michael_archangel_day1
                 2 -> R.drawable.saint_michael_archangel_day2
                 3 -> R.drawable.saint_michael_archangel_day3
+                4 -> R.drawable.sin
+                5 -> R.drawable.humility
+                6 -> R.drawable.sin
+                7 -> R.drawable.generosity
                 else -> R.drawable.saint_michael_archangel_day2
             },
             description = when (day) {
